@@ -20,3 +20,5 @@ Comment créer une liste
 * gateaux
 1. de Neuville
 1. Jeff de Brugges
+
+Pour découvrir la chromato, [rdv ici: ](chromatographie.md)
